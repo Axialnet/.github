@@ -13,7 +13,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-0AADDD?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-00CCEE?style=flat-square)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-0A9FCC?style=flat-square)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-0A9FCC?style=flat-square)](https://github.com/axialnet/.github/blob/main/CONTRIBUTING.md)
 
 </div>
 
@@ -39,7 +39,7 @@ We build in the open. Contributions, feedback, and ideas are always welcome.
 
 - Browse our [repositories](https://github.com/axialnet)
 - Open an [issue](https://github.com/axialnet/axialnet/issues)
-- Read our [contributing guide](CONTRIBUTING.md)
+- Read our [contributing guide]([CONTRIBUTING.md](https://github.com/axialnet/.github/blob/main/CONTRIBUTING.md))
 
 
 ---
