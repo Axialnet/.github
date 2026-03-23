@@ -39,7 +39,7 @@ We build in the open. Contributions, feedback, and ideas are always welcome.
 
 - Browse our [repositories](https://github.com/axialnet)
 - Open an [issue](https://github.com/axialnet/axialnet/issues)
-- Read our [contributing guide]([CONTRIBUTING.md](https://github.com/axialnet/.github/blob/main/CONTRIBUTING.md))
+- Read our [contributing guide](https://github.com/axialnet/.github/blob/main/CONTRIBUTING.md)
 
 
 ---
