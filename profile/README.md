@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Logo -->
-<img src="axialnet_logo_transparent.svg" alt="AxialNet Logo" width="300" height="300"/>
+<img src="axialnet_logo_transparent.svg" alt="AxialNet Logo" width="250" height="250"/>
 
 
 <br/>
