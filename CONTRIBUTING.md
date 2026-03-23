@@ -55,5 +55,4 @@ This project follows our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it b
 ---
 
 ## Questions?
-
-Reach out at **hello@axialnet.io** or open a [Discussion](https://github.com/orgs/axialnet/discussions).
+ open a [Discussion](https://github.com/orgs/axialnet/discussions).
