@@ -1,14 +1,15 @@
-<div align="center">
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="200">
+      <img src="axialnet_logo_transparent.svg" alt="AxialNet Logo" width="250" height="250"/>
+    </td>
+    <td>
+      <h1 style="margin:0">AxialNet</h1>
+      <p style="margin:0"><strong>Connected At the Core</strong></p>
+    </td>
+  </tr>
+</table>
 
-<!-- Logo -->
-<img src="axialnet_logo_transparent.svg" alt="AxialNet Logo" width="250" height="250"/>
-
-
-<br/>
-
-# AxialNet
-
-**Connected · At the Core**
 
 [![MIT License](https://img.shields.io/badge/license-MIT-0AADDD?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-00CCEE?style=flat-square)]()
