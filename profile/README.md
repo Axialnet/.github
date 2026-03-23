@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Logo -->
-<img src="axialnet_logo.png" alt="AxialNet Logo" width="120" height="120"/>
-
+![](profile/assests/axialnet_logo_transparent.svg)
 <br/>
 
 # AxialNet
