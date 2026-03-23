@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Logo -->
-![](profile/assests/axialnet_logo_transparent.svg)
+<img src="axialnet_logo_transparent.svg" alt="AxialNet Logo" width="300" height="300"/>
+
+
 <br/>
 
 # AxialNet
