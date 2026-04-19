@@ -1,0 +1,33 @@
+# ──────────────────────────────────────────────
+#  AxialNet – Funding & Sponsorship Config
+#  Displays a "Sponsor" button on the repo
+# ──────────────────────────────────────────────
+
+# GitHub Sponsors (your GitHub username)
+github: [chicken-D-rice]
+
+# Open Collective (if you have an org page)
+# open_collective: axialnet
+
+# Ko-fi
+# ko_fi: axialnet
+
+# Patreon
+# patreon: axialnet
+
+# Buy Me a Coffee
+# buy_me_a_coffee: axialnet
+
+# Liberapay
+# liberapay: axialnet
+
+# IssueHunt
+# issuehunt: axialnet
+
+# Tidelift (for enterprise-grade sponsorship)
+# tidelift: axialnet
+
+# Custom sponsorship URLs (max 4)
+# custom:
+#   - https://axialnet.vercel.app/sponsor
+#   - https://paypal.me/axialnet
