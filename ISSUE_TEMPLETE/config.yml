@@ -1,0 +1,18 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 General Discussion
+    url: https://github.com/Axialnet/.github/discussions
+    about: Have a question or idea? Start a discussion instead of opening an issue.
+
+  - name: 📖 Documentation
+    url: https://axialnet.vercel.app/docs
+    about: Check our docs page before reporting — your answer might already be there.
+
+  - name: 🔒 Security Vulnerability
+    url: https://github.com/Axialnet/.github/blob/main/SECURITY.md
+    about: Please read our security policy before reporting a vulnerability.
+
+  - name: 🆘 Support
+    url: https://github.com/Axialnet/.github/blob/main/SUPPORT.md
+    about: Need help? Check the support guide first.
