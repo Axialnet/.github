@@ -1,0 +1,83 @@
+title: "[Announcement] "
+labels:
+  - announcement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📢 AxialNet Announcement
+        _This discussion is reserved for official announcements from the AxialNet team._
+        Please do not open announcements unless you are a maintainer or core contributor.
+        ---
+
+  - type: input
+    id: announcement_title
+    attributes:
+      label: "📌 Announcement Title"
+      description: "A short, clear title for this announcement."
+      placeholder: "e.g. AxialNet v2.0 Released"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: announcement_type
+    attributes:
+      label: "📂 Announcement Type"
+      description: "What kind of announcement is this?"
+      options:
+        - 🚀 New Release
+        - 🛠️ Breaking Change
+        - 📖 Documentation Update
+        - 🔒 Security Notice
+        - 🌍 Community Update
+        - 📅 Event / Milestone
+        - ⚠️ Deprecation Notice
+        - 🔧 Maintenance / Downtime
+    validations:
+      required: true
+
+  - type: textarea
+    id: announcement_body
+    attributes:
+      label: "📝 Details"
+      description: "Provide the full announcement details here."
+      placeholder: |
+        What is being announced?
+        What does this mean for users/contributors?
+        Are there any action items required?
+    validations:
+      required: true
+
+  - type: textarea
+    id: affected_areas
+    attributes:
+      label: "📦 Affected Areas"
+      description: "Which parts of the project does this affect?"
+      placeholder: "e.g. Website, API, CLI, Documentation, All"
+    validations:
+      required: false
+
+  - type: textarea
+    id: links
+    attributes:
+      label: "🔗 Related Links"
+      description: "Add any relevant links such as PRs, releases, docs, or changelogs."
+      placeholder: |
+        - Release notes: https://github.com/Axialnet/...
+        - Docs: https://axialnet.vercel.app/docs
+        - PR: #123
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "✅ Maintainer Checklist"
+      description: "Confirm the following before posting."
+      options:
+        - label: "I am a maintainer or authorized contributor of AxialNet."
+          required: true
+        - label: "This announcement has been reviewed before posting."
+          required: true
+        - label: "Relevant documentation or changelogs have been updated (if applicable)."
+          required: false
